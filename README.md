@@ -3,23 +3,28 @@
 
 - 🔭 *이력 - 인포렉스 2019.11 ~ 2021.5 [달빛라이브 라이브스트리밍 방송 플래폼(웹, 모바일 웹뷰)]
 <p>프로젝트 스타트 멤버로 참여하여 80%이상이 웹뷰기반인 라이브 플래폼의 실무 웹 개발자로 근무하였습니다.</p>
+<h6>수행 업무</h6>
+<p>메인페이지, 마이페이지 웹/모바일 통합 UI개발, 웹기반 오디오 녹음 및 플레이어 개발, 웹기반 실시간 유저 채팅 개발, 웹기반 실시간 유저 화상 채팅 개발, 이벤트 페이지 개발 등</p>
 <div>
   Web: https://www.dalbitlive.com/ <br />
   AOS: https://play.google.com/store/apps/details?id=kr.co.inforexseoul.radioproject <br />
   IOS: https://apps.apple.com/us/app/%EB%8B%AC%EB%B9%9B-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EA%B0%9C%EC%9D%B8-%EB%9D%BC%EB%94%94%EC%98%A4-%EB%B0%A9%EC%86%A1-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%B1%84%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4/id1490208806 <br />
 </div>
 
-- 🔭 *이력 - 다방 (스테이션3) 2021.5 ~ [다방싸인 부동산 전자계약 서비스, 다방허브, 다방 백오피스](https://sign.dabangapp.com/, https://hub.dabangapp.com/intro)
+- 🔭 * 이력 - 다방 (스테이션3) 2021.5 ~ [다방싸인 부동산 전자계약 서비스, 다방허브, 다방 백오피스](https://sign.dabangapp.com/, https://hub.dabangapp.com/intro)
 
-- 🤝 *프로젝트(ing) - 모바일 웹뷰 기반 Side Project 2021.12 ~ [내가 아는 모든 맛집을 소개한다 Digging](https://gigifood.netlify.app/)
+<p>프로젝트의 오픈 초기 멤버로 투입하여 프로젝트의 백오피스 서비스 총괄 및 개발과 클라이언트 서비스의 개발에 참여하였습니다.</p>
+<h6>수행 업무</h6>
+<p>백오피스 설계 및 모든 클라이언트 개발, 클라이언트 서비스의 서브페이지 개발, 클라이언트 서비스의 테스트 구조 확립 및 스토리보드 개발 총괄</p>
 
-- 👨‍💻 *블로그(ing) - 웹 개발을 하며 공부하고 배운것을 정리 하고있어요 [https://yesreact.netlify.app/](https://yesreact.netlify.app/)
+- 🤝 * 프로젝트(ing) - 모바일 웹뷰 기반 Side Project 2021.12 ~ [내가 아는 모든 맛집을 소개한다 Digging](https://gigifood.netlify.app/)
 
-- 📝 *스토리북(ing) - 좋은 UI/UX를 만들기 위한 TS 스토리북을 만들고있어요 [https://yesreact-storybook.netlify.app/](https://yesreact-storybook.netlify.app/)
+- 👨‍💻 * 블로그(ing) - 웹 개발을 하며 공부하고 배운것을 정리 하고있어요 [https://yesreact.netlify.app/](https://yesreact.netlify.app/)
+
+- 📝 * 스토리북(ing) - 좋은 UI/UX를 만들기 위한 TS 스토리북을 만들고있어요 [https://yesreact-storybook.netlify.app/](https://yesreact-storybook.netlify.app/)
 
 - 📫 제가 궁금하면 여기로 메일주세요 ! **nmc27111@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
