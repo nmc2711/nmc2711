@@ -1,7 +1,13 @@
 <h1 align="center">안녕하세요. Yes, React의 GitHub 입니다.</h1>
 <h3 align="center">NO라는 대답보다 Yes라는 대답을 좋아하는 3년차 프론트엔드 개발자입니다.</h3>
 
-- 🔭 *이력 - 인포렉스 2019.11 ~ 2021.5 [달빛라이브 라이브스트리밍 방송 플래폼(웹, 모바일 웹뷰)](https://www.dalbitlive.com/, https://play.google.com/store/apps/details?id=kr.co.inforexseoul.radioproject, https://apps.apple.com/us/app/%EB%8B%AC%EB%B9%9B-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EA%B0%9C%EC%9D%B8-%EB%9D%BC%EB%94%94%EC%98%A4-%EB%B0%A9%EC%86%A1-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%B1%84%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4/id1490208806)
+- 🔭 *이력 - 인포렉스 2019.11 ~ 2021.5 [달빛라이브 라이브스트리밍 방송 플래폼(웹, 모바일 웹뷰)]
+<p>프로젝트 스타트 멤버로 참여하여 80%이상이 웹뷰기반인 라이브 플래폼의 실무 웹 개발자로 근무하였습니다.</p>
+<div>
+  Web: https://www.dalbitlive.com/
+  AOS: https://play.google.com/store/apps/details?id=kr.co.inforexseoul.radioproject
+  IOS: https://apps.apple.com/us/app/%EB%8B%AC%EB%B9%9B-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EA%B0%9C%EC%9D%B8-%EB%9D%BC%EB%94%94%EC%98%A4-%EB%B0%A9%EC%86%A1-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%B1%84%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4/id1490208806
+</div>
 
 - 🔭 *이력 - 다방 (스테이션3) 2021.5 ~ [다방싸인 부동산 전자계약 서비스, 다방허브, 다방 백오피스](https://sign.dabangapp.com/, https://hub.dabangapp.com/intro)
 
