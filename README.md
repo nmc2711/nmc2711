@@ -34,6 +34,7 @@
 <br />
 
 - 🤝 * 프로젝트(ing) - 모바일 웹뷰 기반 Side Project 2021.12 ~ [내가 아는 모든 맛집을 소개한다 Digging](https://gigifood.netlify.app/)
+  (디자이너 2명, 프론트엔드 개발자 3명, 서버 개발자 1명으로 구성되어 있습니다.)
 
 - 👨‍💻 * 블로그(ing) - 웹 개발을 하며 공부하고 배운것을 정리 하고있어요 [https://yesreact.netlify.app/](https://yesreact.netlify.app/)
 
