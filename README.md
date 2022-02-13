@@ -2,7 +2,7 @@
 <h3 align="center">NO라는 대답보다 Yes라는 대답을 좋아하는 3년차 프론트엔드 개발자입니다.</h3>
 <br />
 <br />
-- 🔭 *이력 - 인포렉스 2019.11 ~ 2021.5 [달빛라이브 라이브스트리밍 방송 플래폼(웹, 모바일 웹뷰)]
+- 🔭 *이력 - 인포렉스 2019.11 ~ 2021.5 [달빛라이브 라이브스트리밍 방송 플랫폼(웹, 모바일 웹뷰)]
 <p>프로젝트 스타트 멤버로 참여하여 80%이상이 웹뷰기반인 라이브 플래폼의 실무 웹 개발자로 근무하였습니다.</p>
 <h6>수행 업무</h6>
 <p>메인페이지, 마이페이지 웹/모바일 통합 UI개발, 웹기반 오디오 녹음 및 플레이어 개발, 웹기반 실시간 유저 채팅 개발, 웹기반 실시간 유저 화상 채팅 개발, 이벤트 페이지 개발 등</p>
@@ -39,6 +39,8 @@
 - 👨‍💻 * 블로그(ing) - 웹 개발을 하며 공부하고 배운것을 정리 하고있어요 [https://yesreact.netlify.app/](https://yesreact.netlify.app/)
 
 - 📝 * 스토리북(ing) - 좋은 UI/UX를 만들기 위한 TS 스토리북을 만들고있어요 [https://yesreact-storybook.netlify.app/](https://yesreact-storybook.netlify.app/)
+
+- 🔭 저의 경력을 알려드릴게요 !https://delicate-dimple-878.notion.site/SangHan-Hwang-8d0d7f945a214f88a9380269c08d1b6f
 
 - 📫 제가 궁금하면 여기로 메일주세요 ! **nmc27111@gmail.com**
 
