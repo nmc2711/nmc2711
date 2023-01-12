@@ -40,8 +40,8 @@
 
 - 📝 * 스토리북(ing) - 좋은 UI/UX를 만들기 위한 TS 스토리북을 만들고있어요 [https://yesreact-storybook.netlify.app/](https://yesreact-storybook.netlify.app/)
 
-- 🔭 * 저의 경력을 알려드릴게요 ! - https://www.notion.so/SangHan-Hwang-f666538c740c417198fbf414cbc2199c
-
+<!-- - 🔭 * 저의 경력을 알려드릴게요 ! - https://www.notion.so/SangHan-Hwang-f666538c740c417198fbf414cbc2199c
+ -->
 - 📫 * 제가 궁금하면 여기로 메일주세요 ! **nmc27111@gmail.com**
 
 <br />
